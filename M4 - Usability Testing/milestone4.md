@@ -15,10 +15,7 @@ To understand the teat runs please follow the script. All tests have been run wi
 ### Test run 1 
 - [link to pdf file](./Documents/Test_run_1.pdf) 
 
-<div align="center">
-	<img src="Media/test_1.jpg" width="400"/>
-	
-</div>
+
 
 SUS score: 80
 ---
@@ -27,9 +24,7 @@ SUS score: 80
 
 - [link to pdf file](./Documents/Test_run_2.pdf) 
 
-<div align="center">
-	<img src="Media/test_2.jpeg" width="400"/>
-</div>
+
 
 SUS score: 55
 ---
@@ -39,9 +34,7 @@ SUS score: 55
 
 - [link to pdf file](./Documents/Test_run_3.pdf) 
 
-<div align="center">
-	<img src="Media/test_3.jpg" width="400"/>
-</div>
+
 
 SUS score: 80
 ---
@@ -49,10 +42,7 @@ SUS score: 80
 
 - [link to pdf file](./Documents/Test_run_4.pdf) 
 
-<div align="center">
-	<img src="Media/test_4.jpg" width="400"/>
-	
-</div>
+
 
 
 SUS score: 80
